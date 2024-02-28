@@ -1,17 +1,10 @@
 # Websites-Access-by-Basic-SQLi-with-Link-Screenshots
-                                                DAY 1 HOME TASK      
-
-Full name : Afrin Shahana                                           
-username :afrinshahana0811
-
-
-
 
 1.http://mlaapp.com/schooladmin/
-       
+![1](https://github.com/AfrinShahana/Websites-Access-by-Basic-SQLi-with-Link-Screenshots/assets/123531000/7dbc9e54-902f-4706-8ad6-bc279ebbae93)
+   
 
 2.http://remco-me.com/admin/dashboard.php
-
 
 
 3.http://anuradhajain.in/admin-template/admin/
