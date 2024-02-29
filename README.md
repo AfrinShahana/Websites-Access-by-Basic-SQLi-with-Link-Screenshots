@@ -5,6 +5,7 @@
    
 
 2.http://remco-me.com/admin/dashboard.php
+![2](https://github.com/AfrinShahana/Websites-Access-by-Basic-SQLi-with-Link-Screenshots/assets/123531000/647aab99-8c74-4e75-8e55-2d18b4744f5e)
 
 
 3.http://anuradhajain.in/admin-template/admin/
@@ -20,3 +21,4 @@
 
 
 7.https://skct.edu.in/ALUMNI/index.php
+[ass1.pdf](https://github.com/AfrinShahana/Websites-Access-by-Basic-SQLi-with-Link-Screenshots/files/14446030/ass1.pdf)
